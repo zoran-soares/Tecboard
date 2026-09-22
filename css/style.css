@@ -4,6 +4,7 @@
     src: url("../fonts/Unbounded-Bold.ttf") 
     format("truetype");
     font-weight: 700;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
@@ -12,6 +13,7 @@
     font-family: "poppins";
     src: url("../fonts/Poppins-Regular.ttf") 
     format("truetype");
+    font-weight: 400;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -84,6 +86,7 @@ section img{
 }
 
 @media (max-width:768px) {
+@media (max-width:768px) {
     header{
         margin: 65px 0 0 32px; /* Margem superior, direita, inferior e esquerda */
     }
@@ -111,10 +114,12 @@ section img{
     
     h1{
         font-size: 40px;
+        font-size: 40px;
     }
     
     p{
         font-size: 20px;
+        width: 100%;
         width: 100%;
     }
     
@@ -127,9 +132,13 @@ section img{
     section img{
         width: 100%;
         height: auto;
+        width: 100%;
+        height: auto;
         
     }
 
+
+    
 }
 
 
