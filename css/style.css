@@ -33,7 +33,7 @@ body{
 
 header{
     display: block;
-    margin: 20px 0 0 360px;
+    margin: 20px 0 0 120px;
 }
 
 h1{
@@ -85,7 +85,7 @@ section img{
     margin: 0 auto;
 }
 
-@media (max-width:768px) {
+
 @media (max-width:768px) {
     header{
         margin: 65px 0 0 32px; /* Margem superior, direita, inferior e esquerda */
