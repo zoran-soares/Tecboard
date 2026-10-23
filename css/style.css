@@ -3,8 +3,12 @@
     font-family: "unbounded";
     src: url("../fonts/Unbounded-Bold.ttf") 
     format("truetype");
+<<<<<<< HEAD
     font-weight: 700;
     font-weight: 700;
+=======
+    fonte-weight: 700;
+>>>>>>> feat/adiciona-search-console
     font-style: normal;
     font-display: swap;
 }
@@ -13,8 +17,12 @@
     font-family: "poppins";
     src: url("../fonts/Poppins-Regular.ttf") 
     format("truetype");
+<<<<<<< HEAD
     font-weight: 400;
     font-weight: 400;
+=======
+    fonte-weight: 400;
+>>>>>>> feat/adiciona-search-console
     font-style: normal;
     font-display: swap;
 }    
@@ -33,7 +41,11 @@ body{
 
 header{
     display: block;
+<<<<<<< HEAD
     margin: 20px 0 0 120px;
+=======
+    margin: 75px 0 0 360px;
+>>>>>>> feat/adiciona-search-console
 }
 
 h1{
@@ -86,6 +98,7 @@ section img{
 }
 
 
+<<<<<<< HEAD
 @media (max-width:768px) {
     header{
         margin: 65px 0 0 32px; /* Margem superior, direita, inferior e esquerda */
@@ -144,3 +157,5 @@ section img{
 
 
 
+=======
+>>>>>>> feat/adiciona-search-console
